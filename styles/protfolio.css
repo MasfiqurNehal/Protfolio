@@ -199,14 +199,35 @@ main {
     font-weight: 700;
 }
 
-.resume-container{
+.resume-container {
     display: flex;
+    gap: 50px;
 }
 
-#Download-cv-btn{
+.resume-degree {
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.resume-institute{
+    color: #757575;
+font-size: 20px;
+font-weight: 600;
+}
+
+.resume-description{
+    color: #757575;
+font-size: 16px;
+font-weight: 400;
+}
+
+.resume-container hr{
+    margin: 30px 5px;
+}
+
+.download-cv{
+    text-align: center;
     margin-top: 50px;
     margin-bottom: 113px;
-    margin-left: 500px;
-    /* margin-right: 500px; */
-    
 }
