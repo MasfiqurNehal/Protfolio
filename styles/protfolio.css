@@ -101,7 +101,7 @@ nav a {
 main{
     max-width: 1140px;
     margin: 0 auto;
-}
+} 
 /* about section styles */
 .about{
     padding: 130px;
@@ -138,6 +138,8 @@ main{
 }
 .info-description{
     color: #474747;
-    font-weight: 700;
-    
+    font-weight: 700;  
+} 
+#what-I-Do-Description{
+    padding: 30px 150px;
 }
